@@ -9,4 +9,9 @@ A functional Express.js API
 ## Video
 https://drive.google.com/file/d/12XXlwShdlZkBEZB2-if78jA5rzvQPPG-/view?usp=sharing
 
+![](https://github.com/julie0327/ecommerce_backend/blob/main/Screen%20Shot%202023-09-14%20at%206.31.54%20PM.png)
+![](https://github.com/julie0327/ecommerce_backend/blob/main/Screen%20Shot%202023-09-14%20at%206.32.17%20PM.png)
+![](https://github.com/julie0327/ecommerce_backend/blob/main/Screen%20Shot%202023-09-14%20at%206.32.41%20PM.png)
+![](https://github.com/julie0327/ecommerce_backend/blob/main/Screen%20Shot%202023-09-14%20at%206.32.56%20PM.png)
+![](https://github.com/julie0327/ecommerce_backend/blob/main/Screen%20Shot%202023-09-14%20at%206.33.21%20PM.png)
 
